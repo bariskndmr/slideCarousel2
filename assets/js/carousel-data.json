@@ -1,0 +1,27 @@
+{
+    "cars" : [
+        {
+            "title" : "Mercedes",
+            "text" : "C-63",
+            "link" : "assets/images/c63.jpg"
+        },
+        
+        {
+            "title" : "Aston Martin",
+            "text" : "Vantage",
+            "link" : "assets/images/aston-martin.jpg"
+        },
+    
+        {
+            "title" : "Ford",
+            "text" : "Mustang",
+            "link" : "assets/images/mustang.png"
+        },
+    
+        {
+            "title" : "Mercedes",
+            "text" : "S-350",
+            "link" : "assets/images/s350.jpg"
+        }
+    ]
+}
